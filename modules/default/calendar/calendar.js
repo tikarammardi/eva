@@ -11,7 +11,7 @@ Module.register("calendar", {
 
 	// Define module defaults
 	defaults: {
-		maximumEntries: 10, // Total Maximum Entries
+		maximumEntries: 3, // Total Maximum Entries
 		maximumNumberOfDays: 365,
 		displaySymbol: true,
 		defaultSymbol: "calendar", // Fontawesome Symbol see http://fontawesome.io/cheatsheet/
@@ -40,7 +40,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar",
-				url: "http://www.calendarlabs.com/templates/ical/US-Holidays.ics",
+				url: "https://calendar.google.com/calendar/ical/vaibhavbajpai12%40gmail.com/private-704775c0e4f92b327bd70e76bc7aef7d/basic.ics"
 			},
 		],
 		titleReplace: {

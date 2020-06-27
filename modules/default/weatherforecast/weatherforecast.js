@@ -13,7 +13,7 @@ Module.register("weatherforecast",{
 	defaults: {
 		location: false,
 		locationID: false,
-		appid: "",
+		appid: "47a4ddfebd4db59c2fcbd0969533fa56",
 		units: config.units,
 		maxNumberOfDays: 7,
 		showRainAmount: false,

@@ -22,3 +22,7 @@
   text-align: right;
   vertical-align: top;
 }
+
+.calendar {
+  border: 0 !important;
+}

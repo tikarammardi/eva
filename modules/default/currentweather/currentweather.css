@@ -8,6 +8,10 @@
   transform: translate(0, -3px);
 }
 
+.currentweather .weathericon {
+  color: blue;
+}
+
 .currentweather .humidityIcon {
   padding-right: 4px;
 }
