@@ -7,7 +7,6 @@
 		"allowSyntheticDefaultImports": true
 	},
 	"exclude": [
-		"modules",
 		"node_modules"
 	]
 }
